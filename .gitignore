@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# Eclipse
+.metadata/
+.settings/
+Debug/
+Release/
+.cproject
+.project
