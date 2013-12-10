@@ -19,3 +19,18 @@ Debug/
 Release/
 .cproject
 .project
+
+# Visual Studio
+*.vcxproj
+*.vcxproj.user
+*.filters
+*.opensdf
+*.sdf
+*.sln
+*.suo
+
+# Test files
+main.cc
+mian.cpp
+test.cc
+test.cpp
